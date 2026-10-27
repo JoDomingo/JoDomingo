@@ -32,7 +32,7 @@ Sistema de recomendación de productos desarrollado como proyecto final grupal d
 - API desarrollada con **FastAPI**.
 - Dashboard interactivo con **Streamlit** para análisis de indicadores comerciales.
 
-### 🤖 FinanceGuard – Customer Churn Prediction
+### 🤖 [FinanceGuard – Customer Churn Prediction](https://github.com/JoDomingo/financeguard-customer-churn)
 
 Proyecto individual de Machine Learning orientado a predecir el abandono de clientes bancarios.
 
