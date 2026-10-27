@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hola, soy Joaquín Domingo 👋
 
-<!--
-**JoDomingo/JoDomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst Jr. | Python · SQL · Power BI | Data Science
 
-Here are some ideas to get you started:
+Soy Licenciado en Comercialización con formación en Data Science y experiencia en análisis comercial, elaboración de reportes y planificación de demanda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy orientando mi perfil profesional hacia el análisis de datos, combinando conocimientos de negocio con herramientas como **Python, SQL, Power BI y Excel**, además de experiencia práctica en proyectos de **Machine Learning, visualización y MLOps**.
+
+## 🛠️ Tecnologías y herramientas
+
+**Análisis de datos**  
+Python · Pandas · NumPy · SQL · EDA · Data Cleaning · Feature Engineering
+
+**Business Intelligence y visualización**  
+Power BI · Excel · Matplotlib · Seaborn · Streamlit
+
+**Machine Learning**  
+Scikit-learn · Regresión · Clasificación · Clustering
+
+**Desarrollo y MLOps**  
+Git · GitHub · FastAPI · Docker · GitHub Actions · SonarQube
+
+## 📌 Proyectos destacados
+
+### 🛒 [NexaData – Superstore Recommender](https://github.com/JoDomingo/nexadata-superstore-recommender)
+
+Sistema de recomendación de productos desarrollado como proyecto final grupal de Data Science.
+
+- Análisis exploratorio de datos sobre ventas y comportamiento de clientes.
+- Pipeline reproducible de procesamiento, ingeniería de características, entrenamiento y evaluación.
+- Sistema de recomendación basado en **SVD + k-NN**.
+- API desarrollada con **FastAPI**.
+- Dashboard interactivo con **Streamlit** para análisis de indicadores comerciales.
+
+### 🤖 FinanceGuard – Customer Churn Prediction
+
+Proyecto individual de Machine Learning orientado a predecir el abandono de clientes bancarios.
+
+- EDA y preprocesamiento de un dataset de 10.000 registros.
+- Comparación y optimización de distintos modelos de clasificación.
+- Evaluación mediante validación cruzada y métricas de desempeño.
+- **CatBoost** seleccionado como modelo final.
+
+### ⚙️ [MLOps Pipeline](https://github.com/JoDomingo/mlops_pipeline)
+
+Proyecto end-to-end orientado al ciclo de vida de modelos de Machine Learning.
+
+- Pipeline reproducible de procesamiento y entrenamiento.
+- Monitoreo de **Data Drift**.
+- Dashboard interactivo con **Streamlit**.
+- API con **FastAPI** y containerización con **Docker**.
+- Integración continua mediante **GitHub Actions**.
+- Controles de calidad con **SonarQube**.
+
+## 🎓 Formación
+
+- **Data Science** — Henry
+- **Data Analytics** — Coderhouse
+- **Licenciatura en Comercialización** — UADE
+
+## 🌎 Idiomas
+
+**Inglés:** comprensión de textos y documentación técnica; comunicación oral en desarrollo.
+
+---
+
+📍 **Buenos Aires, Argentina**
