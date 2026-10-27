@@ -62,6 +62,9 @@ Proyecto end-to-end orientado al ciclo de vida de modelos de Machine Learning.
 
 **Inglés:** comprensión de textos y documentación técnica; comunicación oral en desarrollo.
 
----
+## 📬 Contacto
 
-📍 **Buenos Aires, Argentina**
+- 💼 **LinkedIn:** [Joaquín Domingo](https://www.linkedin.com/in/joaqu%C3%ADn-domingo-99537654/)
+- 📍 **Ubicación:** Buenos Aires, Argentina
+
+---
